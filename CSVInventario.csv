@@ -1,0 +1,9 @@
+id_producto|nombre|cantidad_disponible|cantidad_vendida|estado|precio|categoria|mililitros|tipo|gramos|sabor|tamaño
+101|Tortrix|100|0|disponible|2.0|Snack|||170|barbacoa|individual
+102|Tortillas de harina|25|0|disponible|11.95|Snack|||260|natural|familiar
+103|Coca Cola |25|0|disponible|21.55|Beverage|3000|soda|||
+104|Gatorade|25|0|disponible|15.0|Beverage|600|energ‚tica|||
+105|Galletas Oreo|30|0|disponible|55.9|Snack|||224|chocolate|familiar
+106|Tortrix|20|0|disponible|21.35|Snack|||340|lim¢n|familiar
+107|Nachos|50|0|disponible|2.0|Snack|||120|barbacoa|individual
+108|Chuleta ahumada|20|12|disponible|41.05|New|||||
